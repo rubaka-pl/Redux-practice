@@ -1,4 +1,6 @@
 # Redux Practice Store 🛒
+🌐 Live Demo:
+[DEMO GitHub Deploy](https://rubaka-pl.github.io/Redux-practice/)
 
 This is a simple fake e-commerce store built with React and Redux for learning purposes.
 
